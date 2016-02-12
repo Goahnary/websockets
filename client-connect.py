@@ -3,7 +3,7 @@
 import socket
 
 TCP_IP = '161.6.10.102'
-TCP_PORT = 5005
+TCP_PORT = 5823
 BUFFER_SIZE = 20
 MESSAGE = "Hello, world!"
 

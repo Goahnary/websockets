@@ -30,6 +30,7 @@ Original section of code:
    '''python
 
    TCP_IP = '127.0.0.1'
+
    TCP_PORT = 5829   
 
    '''
@@ -39,6 +40,7 @@ New section you have changed:
    '''python
 
    TCP_IP = 'x.x.x.x'
+
    TCP_PORT = xxxx
 
    '''

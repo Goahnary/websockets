@@ -1,0 +1,27 @@
+# Documentation
+
+I decided to use the python programming language to create my websocket in.
+
+
+### Requirements
+
+In order to run my scripts you must have:
+
+- at least one server/computer with linux installed
+- Python 2.7 installed
+
+### Running the program
+
+To run my scripts open a terminal window and run socket-server.py with the command:
+
+   python socket-server.py
+
+After you have done this, open a second terminal and start the client script with the command:
+
+   python client-connect.py
+
+Once you have done this the program should now be running properly.
+
+### Using The Program
+
+

@@ -2,7 +2,7 @@
 
 import socket
 
-TCP_IP = '161.6.10.102'
+TCP_IP = '127.0.0.1'
 TCP_PORT = 5822
 BUFFER_SIZE = 128
 MESSAGE = ""
